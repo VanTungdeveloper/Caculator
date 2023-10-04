@@ -1,2 +1,2 @@
 # Caculator
-Bài tập môn Operator system
+Bài tập môn Hệ điều hành - Nhóm 9 - Lớp: 63KTPM2
